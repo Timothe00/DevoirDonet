@@ -1,0 +1,17 @@
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\bin\Debug\net6.0\Backend.todoListApp.Logic.deps.json
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\bin\Debug\net6.0\Backend.todoListApp.Logic.runtimeconfig.json
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\bin\Debug\net6.0\Backend.todoListApp.Logic.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\bin\Debug\net6.0\Backend.todoListApp.Logic.pdb
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\bin\Debug\net6.0\Backend.todoListApp.DataAccess.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\bin\Debug\net6.0\Backend.todoListApp.DataAccess.pdb
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.csproj.AssemblyReference.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.AssemblyInfoInputs.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.AssemblyInfo.cs
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.csproj.CopyComplete
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\refint\Backend.todoListApp.Logic.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.pdb
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\Backend.todoListApp.Logic.genruntimeconfig.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.Logic\obj\Debug\net6.0\ref\Backend.todoListApp.Logic.dll

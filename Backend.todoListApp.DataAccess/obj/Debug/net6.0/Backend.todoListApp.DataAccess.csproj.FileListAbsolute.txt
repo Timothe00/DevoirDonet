@@ -1,0 +1,14 @@
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.csproj.AssemblyReference.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.AssemblyInfoInputs.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.AssemblyInfo.cs
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.csproj.CoreCompileInputs.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\bin\Debug\net6.0\Backend.todoListApp.DataAccess.deps.json
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\bin\Debug\net6.0\Backend.todoListApp.DataAccess.runtimeconfig.json
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\bin\Debug\net6.0\Backend.todoListApp.DataAccess.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\bin\Debug\net6.0\Backend.todoListApp.DataAccess.pdb
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\refint\Backend.todoListApp.DataAccess.dll
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.pdb
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\Backend.todoListApp.DataAccess.genruntimeconfig.cache
+C:\Users\INFI-STG7\Desktop\TodoListApp\Backend.todoListApp.DataAccess\obj\Debug\net6.0\ref\Backend.todoListApp.DataAccess.dll

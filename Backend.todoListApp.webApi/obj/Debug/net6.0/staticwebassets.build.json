@@ -1,0 +1,11 @@
+{
+  "Version": 1,
+  "Hash": "lmOnWuh7uceZmW0DpQhmW93WLkfnhnwvmayWTVrpPUA=",
+  "Source": "Backend.todoListApp.webApi",
+  "BasePath": "_content/Backend.todoListApp.webApi",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [],
+  "Assets": []
+}
