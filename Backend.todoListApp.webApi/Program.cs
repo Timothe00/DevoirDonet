@@ -1,6 +1,6 @@
 
 using Backend.todoListApp.DataAccess.Data;
-using Backend.todoListApp.Logic.Services.UserService;
+using Backend.todoListApp.Logic.Services;
 using Microsoft.EntityFrameworkCore;
 
 var builder = WebApplication.CreateBuilder(args);
@@ -13,7 +13,7 @@ builder.Services.AddDbContext<TodoListDbContext>(Option => {
 });
 
 
-builder.Services.AddScoped<IUserServ, UserServ>();
+builder.Services.AddScoped<ITachesService, TachesService>();
 
 // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
 builder.Services.AddEndpointsApiExplorer();

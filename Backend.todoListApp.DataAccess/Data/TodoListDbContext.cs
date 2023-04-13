@@ -10,7 +10,7 @@ namespace Backend.todoListApp.DataAccess.Data
 {
     public class TodoListDbContext : DbContext
     {
-        public virtual DbSet<Users>? Users { get; set; }
+
         public virtual DbSet<Taches>? Tasks { get; set; }
 
         public TodoListDbContext() {}
@@ -33,25 +33,13 @@ namespace Backend.todoListApp.DataAccess.Data
         {
             base.OnModelCreating(modelBuilder);
 
-
-
+            modelBuilder.Entity<Taches>(entity =>
             {
-                modelBuilder.Entity<Users>()
-                    .HasMany(u => u.Tasks)
-                    .WithOne(t => t.Users)
-                    .HasForeignKey(t => t.Id)
-                    .IsRequired()
-                    .OnDelete(DeleteBehavior.Cascade);
-            }
-
-            modelBuilder.Entity<Taches>(o =>
-            {
-                o.HasKey(pe => pe.TaskId);
-                o.HasOne(p => p.Users)
-                    .WithMany(p => p.Tasks)
-                    .HasForeignKey(e => e.TaskId)
-                    .IsRequired()
-                    .OnDelete(DeleteBehavior.Cascade);
+                entity.HasKey(e => e.Id);
+                entity.Property(e => e.Titre).IsRequired();
+                entity.Property(e => e.Descriptions).IsRequired();
+                entity.Property(e => e.Statut).IsRequired();
+                entity.Property(e=>e.createAt).IsRequired();
             });
 
         }
